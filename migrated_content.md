@@ -117,7 +117,7 @@ The material in this Project is provided "as is", without any conditions, warran
         Sie können uns gerne Links auf gute Beispiele zusenden
         Sie können die Ersteller der eizelnen Seiten direkt
         kontaktieren:
-        {{\#switchtablink:Actual_Work_in_Progress|Actual Work in
+        \#switchtablink:Actual_Work_in_Progress|Actual Work in
         Progress}}
         Kontakt:  oder
 
@@ -210,62 +210,62 @@ für weitere Programmiersprachen</p></th>
 </tr>
 <tr class="even">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="odd">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="even">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="odd">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="even">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="odd">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="even">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="odd">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="even">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 Christian H.</p></td>
 </tr>
 <tr class="odd">
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="even">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="odd">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="even">
@@ -275,12 +275,12 @@ Christian H.</p></td>
 </tr>
 <tr class="odd">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 <tr class="even">
 <center>
-<p><a href="{{Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
+<p><a href="Top_10:LanguageFile" title="wikilink">text=documentRootTop10DeveloperEdition</a></p>
 </center></td>
 </tr>
 </tbody>
@@ -310,7 +310,7 @@ the ways you can help:
     Project that could be interesting for Developers to build good
     software.
 
-Please see {{\#switchtablink:Actual_Work_in_Progress|Actual Work in
+Please see \#switchtablink:Actual_Work_in_Progress|Actual Work in
 Progress}}
 Contact:  oder  __NOTOC__ <headertabs />
 
